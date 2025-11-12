@@ -9,7 +9,7 @@ It highlights end-to-end analytics skills — from data preparation and KPI calc
 ## 🌐 Live Dashboard Links
 | Dashboard | Tableau Public Link |
 |------------|--------------------|
-| **Sales Customer Dashboard** | [View on Tableau Public](https://public.tableau.com/views/CustomerDashboard2023/CustomerDashboard) |
+| **Sales Customer Dashboard** | [View on Tableau Public](https://public.tableau.com/app/profile/shamika.shetty/viz/SalesCustomerDashboard_17629359050130/CustomerDashboard)|
 
 🌎 **Portfolio Website:** [Link](https://shamikasshetty.github.io/Shamika.github.io/index.html)
 
